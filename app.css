@@ -29,3 +29,8 @@ body {
 #grid .snake {
   background-color: darkorange;
 }
+
+#grid .veggie {
+  background-color: darkolivegreen;
+  border-radius: 5px;
+}
